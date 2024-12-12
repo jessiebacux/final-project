@@ -353,6 +353,12 @@ a span{
 /* ================================= End Services ========================================== */
 
 /* ================================= Testimonial ========================================== */
+.testimonial .container-testimonial .box .user img 
+{
+  width: 60px; /* Adjust the width as needed */
+  height: 60px; /* Adjust the height as needed */
+  margin-right: 15px;
+}
 .testimonial{
     min-height: 100vh;
     width: 100%;
