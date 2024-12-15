@@ -375,7 +375,7 @@ p {  font-family: Arial, Helvetica, sans-serif;}
     margin-top: 15px;
     transition: transform .4s ease;
 }
-.testimonial .container-testimonial .box:hover{
+.testimonial .container-testimonial .box:{
     transform: translateY(-10px);
 }
 .testimonial .container-testimonial .box .user{
