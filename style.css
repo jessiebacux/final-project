@@ -448,7 +448,7 @@ p {  font-family: Arial, Helvetica, sans-serif;}
 /* ================================= End Gallery ========================================== */
 
 /* ================================= About ========================================== */
-.about .container-about .text a{
+.about .container-about .text a:hover{
     color: #fff;
     border: 2px solid #000;
 } 
