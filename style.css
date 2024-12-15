@@ -373,9 +373,6 @@ p {  font-family: Arial, Helvetica, sans-serif;}
     margin-top: 15px;
     transition: transform .4s ease;
 }
-.testimonial .container-testimonial .box{
-    transform: translateY(-10px);
-}
 .testimonial .container-testimonial .box .user{
     display: flex;
     margin-bottom: 20px;
@@ -393,7 +390,7 @@ p {  font-family: Arial, Helvetica, sans-serif;}
     margin-left: 5px;
 }
 .testimonial .container-testimonial .box  p{
-    font-size: 14px;
+    font-size: 20px;
 }
 .testimonial .container-testimonial .box .user .user-info small{
     /* color: #009688; */
