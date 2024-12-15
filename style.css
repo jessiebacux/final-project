@@ -485,10 +485,7 @@ p {  font-family: Arial, Helvetica, sans-serif;}
 .about .container-about .text a span{
     background-color: #000;
 }
-.about .container-about .text a:hover{
-    color: #fff;
-    border: 2px solid #000;
-}
+
 @media screen and (max-width: 1024px){
     .about .container-about{
         flex-wrap: wrap;
